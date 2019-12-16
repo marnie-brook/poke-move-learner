@@ -1,3 +1,5 @@
+import { remove } from 'lodash';
+
 export interface IPokemon {
     name: string;
     evolutionChain: Array<string>,
@@ -75,7 +77,21 @@ export interface BreedChain {
 }
 
 export class Database {
+    private eggsMap: { [key: string]: Array<Pokemon>};
+
     constructor(private pokemon: Array<Pokemon>) {
+        this.eggsMap = pokemon.reduce(
+            (carry: { [key: string]: Array<Pokemon> }, p) => {
+                for (const group of p.eggGroups) {
+                    if (!carry[group]) {
+                        carry[group] = [];
+                    }
+                    carry[group].push(p);
+                }
+                return carry;
+            },
+            {}
+        );
     }
 
     find(name: string): Pokemon|null {
@@ -84,11 +100,15 @@ export class Database {
 
     calculateBreedChain(pokemon: Pokemon, move: string, covered?: Array<string>): BreedChain {
         const traversed = (covered || []).concat(pokemon.name);
-        const breedables = this.pokemon.filter(
-            (p) => {
-                return traversed.indexOf(p.name) === -1 &&
-                    p.eggGroups.some((m) => pokemon.eggGroups.indexOf(m) > -1);
-            }
+        const breedables = pokemon.eggGroups.reduce(
+            (carry, g) => {
+                return carry.concat(
+                    ...remove(this.eggsMap[g], (p) => {
+                        return traversed.indexOf(p.name) === -1;
+                    })
+                );
+            },
+            [] as Array<Pokemon>
         );
         const learners = breedables.filter(
             (p) => p.learnsMove(move)
