@@ -1,0 +1,471 @@
+[{
+    "name": "Grookey",
+    "evolutionChain": [
+        "Grookey",
+        "Thwackey",
+        "Rillaboom"
+    ],
+    "eggGroups": [
+        "Field",
+        "Grass"
+    ],
+    "levelMoves": [
+        "Scratch",
+        "Growl",
+        "Branch Poke",
+        "Taunt",
+        "Razor Leaf",
+        "Screech",
+        "Knock off",
+        "Slam",
+        "Uproar",
+        "Wood Hammer",
+        "Endeavor"
+    ],
+    "tmMoves": [
+        "Mega Punch",
+        "Mega Kick",
+        "Magical Leaf",
+        "Solar Beam",
+        "Solar Blade",
+        "Screech",
+        "Rest",
+        "Snore",
+        "Protect",
+        "Giga Drain",
+        "Attract",
+        "Sunny Day",
+        "Facade",
+        "Swift",
+        "U-turn",
+        "Assurance",
+        "Fling",
+        "Drain Punch",
+        "Round",
+        "Acrobatics",
+        "False swipe"
+    ],
+    "trMoves": [
+        "Swords Dance",
+        "Low Kick",
+        "Focus Energy",
+        "Substitute",
+        "Endure",
+        "Sleep Talk",
+        "Uproar",
+        "Taunt",
+        "Energy Ball",
+        "Grass Knot",
+        "Work Up"
+    ],
+    "eggMoves": [
+        "Growth",
+        "Hammer Arm",
+        "Fake Out",
+        "Strength",
+        "Nature Power",
+        "Worry Seed",
+        "Leech Seed"
+    ],
+    "tutorMoves": [
+        "Grass Pledge"
+    ]
+}, {
+    "name": "Thwackey",
+    "evolutionChain": [
+        "Grookey",
+        "Thwackey",
+        "Rillaboom"
+    ],
+    "eggGroups": [
+        "Field",
+        "Grass"
+    ],
+    "levelMoves": [
+        "Double Hit",
+        "Scratch",
+        "Growl",
+        "Branch Poke",
+        "Taunt"
+    ],
+    "tmMoves": [
+        "Mega Punch",
+        "Mega Kick",
+        "Magical Leaf",
+        "Solar Beam",
+        "Solar Blade",
+        "Screech",
+        "Rest",
+        "Snore",
+        "Protect",
+        "Giga Drain",
+        "Attract",
+        "Sunny Day",
+        "Facade",
+        "Swift",
+        "U-turn",
+        "Assurance",
+        "Fling",
+        "Drain Punch",
+        "Round",
+        "Acrobatics",
+        "False swipe"
+    ],
+    "trMoves": [
+        "Swords Dance",
+        "Low Kick",
+        "Focus Energy",
+        "Substitute",
+        "Endure",
+        "Sleep Talk",
+        "Uproar",
+        "Taunt",
+        "Energy Ball",
+        "Grass Knot",
+        "Work Up"
+    ],
+    "eggMoves": [
+        "Growth",
+        "Hammer Arm",
+        "Fake Out",
+        "Strength",
+        "Nature Power",
+        "Worry Seed",
+        "Leech Seed"
+    ],
+    "tutorMoves": [
+        "Grass Pledge"
+    ]
+}, {
+    "name": "Rillaboom",
+    "evolutionChain": [
+        "Grookey",
+        "Thwackey",
+        "Rillaboom"
+    ],
+    "eggGroups": [
+        "Field",
+        "Grass"
+    ],
+    "levelMoves": [
+        "Drum Beating",
+        "Double Hit",
+        "Grassy Terrain",
+        "Noble Roar",
+        "Scratch",
+        "Growl",
+        "Branch Poke",
+        "Taunt",
+        "Razor Leaf",
+        "Screech",
+        "Knock Off",
+        "Slam",
+        "Uproar",
+        "Wood Hammer",
+        "Endeavor",
+        "Boomburst"
+    ],
+    "tmMoves": [
+        "Mega Punch",
+        "Mega Kick",
+        "Hyper Beam",
+        "Giga Impact",
+        "Magical Leaf",
+        "Solar Beam",
+        "Solar Blade",
+        "Screech",
+        "Rest",
+        "Snore",
+        "Protect",
+        "Scary Face",
+        "Giga Drain",
+        "Attract",
+        "Sunny Day",
+        "Facade",
+        "Swift",
+        "Brick Break",
+        "Bullet Seed",
+        "Mud Shot",
+        "U-turn",
+        "Assurance",
+        "Fling",
+        "Drain Punch",
+        "Round",
+        "Acrobatics",
+        "Bulldoze",
+        "Snarl",
+        "Grassy Terrain",
+        "False swipe",
+        "Brutal Swing",
+        "Stomping Tantrum"
+    ],
+    "trMoves": [
+        "Swords Dance",
+        "Body Slam",
+        "Low Kick",
+        "Earthquake",
+        "Focus Energy",
+        "Substitute",
+        "Endure",
+        "Sleep Talk",
+        "Uproar",
+        "Taunt",
+        "Superpower",
+        "Hyper Voice",
+        "Bulk Up",
+        "Focus Blast",
+        "Energy Ball",
+        "Earth Power",
+        "Leaf Storm",
+        "Grass Knot",
+        "Work Up",
+        "Darkest Lariat",
+        "High Horsepower",
+        "Body Press"
+    ],
+    "eggMoves": [
+        "Growth",
+        "Hammer Arm",
+        "Fake Out",
+        "Strength",
+        "Nature Power",
+        "Worry Seed",
+        "Leech Seed"
+    ],
+    "tutorMoves": [
+        "Grass Pledge",
+        "Frenzy Plant"
+    ]
+}, {
+    "name": "Scorbunny",
+    "evolutionChain": [
+        "Scorbunny",
+        "Raboot",
+        "Cinderace"
+    ],
+    "eggGroups": [
+        "Field",
+        "Human-like"
+    ],
+    "levelMoves": [
+        "Tackle",
+        "Growl",
+        "Ember",
+        "Quick Attack",
+        "Double Kick",
+        "Flame Charge",
+        "Agility",
+        "Headbutt",
+        "Counter",
+        "Bounce",
+        "Double-Edge"
+    ],
+    "tmMoves": [
+        "Mega Kick",
+        "Rest",
+        "Snore",
+        "Protect",
+        "Attract",
+        "Sunny Day",
+        "Facade",
+        "Swift",
+        "Bounce",
+        "Mud Shot",
+        "U-turn",
+        "Assurance",
+        "Fire Fang",
+        "Low Sleep",
+        "Round",
+        "Acrobatics"
+    ],
+    "trMoves": [
+        "Flamethrower",
+        "Low Kick",
+        "Agility",
+        "Focus Energy",
+        "Fire Blast",
+        "Substitute",
+        "Reversal",
+        "Endure",
+        "Sleep Talk",
+        "Baton Pass",
+        "Heat Wave",
+        "Taunt",
+        "Blaze Kick",
+        "Overheat",
+        "Gunk Shot",
+        "Electro Ball",
+        "Ally Switch",
+        "Work Up"
+    ],
+    "eggMoves": [
+        "High Jump Kick",
+        "Sand Attack",
+        "Sucker Punch",
+        "Super Fang"
+    ],
+    "tutorMoves": [
+        "Fire Pledge"
+    ]
+}, {
+    "name": "Raboot",
+    "evolutionChain": [
+        "Scorbunny",
+        "Raboot",
+        "Cinderace"
+    ],
+    "eggGroups": [
+        "Field",
+        "Human-like"
+    ],
+    "levelMoves": [
+        "Tackle",
+        "Growl",
+        "Ember",
+        "Quick Attack",
+        "Double Kick",
+        "Flame Charge",
+        "Agility",
+        "Headbutt",
+        "Counter",
+        "Bounce",
+        "Double-Edge"
+    ],
+    "tmMoves": [
+        "Mega Kick",
+        "Rest",
+        "Snore",
+        "Protect",
+        "Attract",
+        "Sunny Day",
+        "Facade",
+        "Swift",
+        "Bounce",
+        "Mud Shot",
+        "U-turn",
+        "Assurance",
+        "Fire Fang",
+        "Low Sweep",
+        "Round",
+        "Acrobatics"
+    ],
+    "trMoves": [
+        "Flamethrower",
+        "Low Kick",
+        "Agility",
+        "Focus Energy",
+        "Fire Blast",
+        "Substitute",
+        "Reversal",
+        "Endure",
+        "Sleep Talk",
+        "Baton Pass",
+        "Heat Wave",
+        "Taunt",
+        "Blaze Kick",
+        "Overheat",
+        "Bulk Up",
+        "Flare Blitz",
+        "Gunk Shot",
+        "Electro Ball",
+        "Ally Switch",
+        "Work Up"
+    ],
+    "eggMoves": [
+        "High Jump Kick",
+        "Sand Attack",
+        "Sucker Punch",
+        "Super Fang"
+    ],
+    "tutorMoves": [
+        "Fire Pledge"
+    ]
+}, {
+    "name": "Cinderace",
+    "evolutionChain": [
+        "Scorbunny",
+        "Raboot",
+        "Cinderace"
+    ],
+    "eggGroups": [
+        "Field",
+        "Human-like"
+    ],
+    "levelMoves": [
+        "Pyro Ball",
+        "Feint",
+        "Tackle",
+        "Growl",
+        "Ember",
+        "Quick Attack",
+        "Double Kick",
+        "Flame Charge",
+        "Agility",
+        "Headbutt",
+        "Counter",
+        "Bounce",
+        "Double-Edge",
+         "Court Change"
+     ],
+     "tmMoves": [
+         "Mega Kick",
+         "Fire Punch",
+         "Hyper Beam",
+         "Giga Impact",
+         "Fire Spin",
+         "Rest",
+         "Snore",
+         "Protect",
+         "Attract",
+         "Sunny Day",
+         "Facade",
+         "Swift",
+         "Helping Hand",
+         "Revenge",
+         "Bounce",
+         "Mud Shot",
+         "U-turn",
+         "Assurance",
+         "Fire Fang",
+         "Low Sweep",
+         "Round",
+         "Acrobatics",
+         "Snarl"
+     ],
+     "trMoves": [
+         "Flamethrower",
+         "Low Kick",
+         "Agility",
+         "Focus Energy",
+         "Fire Blast",
+         "Substitute",
+         "Reversal",
+         "Endure",
+         "Sleep Talk",
+         "Baton Pass",
+         "Shadow Ball",
+         "Heat Wave",
+         "Taunt",
+         "Blaze Kick",
+         "Overheat",
+         "Bulk Up",
+         "Flare Blitz",
+         "Focus Blast",
+         "Zen Headbutt",
+         "Gunk SHot",
+         "Iron Head",
+         "Electro Ball",
+         "Ally Switch",
+         "Work Up"
+     ],
+     "eggMoves": [
+         "High Jump Kick",
+         "Sand Attack",
+         "Sucker Punch",
+         "Super Fang"
+     ],
+     "tutorMoves": [
+         "Blast Burn",
+         "Fire Pledge"
+     ]
+ }]
