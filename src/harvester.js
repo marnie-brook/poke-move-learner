@@ -76,8 +76,7 @@ function harvestEggMoves($) {
     return table.children()
         .map((i, x) => $(x).find('a').length === 0 ? '' : $(x).find('a').first().text())
         .filter((i, x) => x !== '')
-        .get()
-        .slice(1);
+        .get();
 }
 
 function harvestTutorMoves($) {
