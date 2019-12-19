@@ -1,6 +1,6 @@
 {
-    "name": "poke-generator",
-    "desciption": "",
+    "name": "poke-move-leaner",
+    "desciption": "Calculate how a gen8 pokemon can learn a given move",
     "version": "0.0.1",
     "license": "MIT",
     "scripts": {
