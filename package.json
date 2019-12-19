@@ -4,18 +4,13 @@
     "version": "0.0.1",
     "license": "MIT",
     "scripts": {
-        "compile": "webpack --mode production",
-        "start": "ts-node src/main.ts --",
+        "calculate": "ts-node src/main.ts --",
         "harvest": "node src/harvester.js"
     },
     "devDependencies": {
-        "json-loader": "0.5.7",
-        "ts-loader": "6.2.1",
         "ts-node": "7.0.1",
         "tslint": "5.20.0",
-        "typescript": "3.6.4",
-        "webpack": "4.41.2",
-        "webpack-cli": "3.3.10"
+        "typescript": "3.6.4"
     },
     "dependencies": {
         "@types/lodash": "^4.14.149",
